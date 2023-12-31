@@ -1,8 +1,8 @@
-# NFT Collection Deployment and Polygon Bridge Transfer
+# Polygon Proof of Stake by Aniket Raj - NFT Collection project
 This repository contains the first project in Polygon-Advance, where we deploy an NFT (Non-Fungible Token) collection on the Ethereum blockchain, map the collection to Polygon, and transfer assets via the Polygon Bridge.
 
-## Getting Started
-To execute the program, follow these steps:
+## Description
+To run the program, follow these steps:
 
 1. Download the entire repository to access its contents.
 2. Navigate to the main project directory.
@@ -32,7 +32,7 @@ To approve and deposit the minted NFTs from Ethereum to the Polygon Mumbai netwo
 npx hardhat run scripts/batchTransfer.js --network goerli
 ```
 ## Author
-This project is authored by Kislay Kaushal.
+This project is authored by Aniket Raj
 
 ## License
 This project is licensed under the MIT License. Feel free to make a copy of the project and use it for your own purposes.
